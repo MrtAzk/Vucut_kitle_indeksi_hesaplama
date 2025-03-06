@@ -34,5 +34,7 @@ public class Main {
             System.out.println("Vücut Kitle İndeksiniz : " + bodyMassIndex);
 
         }
+
+        scanner.close();
     }
 }
